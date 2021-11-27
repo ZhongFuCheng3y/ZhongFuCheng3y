@@ -10,5 +10,3 @@
 - 👯 维护了两个公众号：Java3y和对线面试官
 - 📫 你可以通过微信搜**Java3y**联系我
 - ⚡ 希望我写下的东西能帮助到你
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZhongFuCheng3y&theme=graywhite&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
